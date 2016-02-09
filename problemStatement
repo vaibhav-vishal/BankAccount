@@ -1,0 +1,30 @@
+Create a java class BankAccount;
+
+AccountNumber,AccountHolderName, balance;
+
+the Class has two methods deposit and withdraw with argument amountDeposited or amountWithdrawn
+
+
+Write a Test Case for the above class
+
+1) the Constructor of the class should not accept Null
+
+2) The Constructor should return  all the three values sent properly
+
+3) the Deposit method should return double  and a positive number;
+
+4) the withdraw method return value should not be negative
+
+5) the deposit amount should be currentBalace + amount Deposited
+
+6) the withdraw method should not have any indefinite loop
+
+7) Write a test method to check the Constructor is throwing NullpointerException if one of the argument to the constructor is Null
+
+
+
+
+ 
+
+
+ 
